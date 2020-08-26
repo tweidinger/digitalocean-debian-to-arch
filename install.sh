@@ -55,7 +55,7 @@ run_from_file() {
 archlinux_mirror="http://mirrors.kernel.org/archlinux"
 
 # extra packages
-extra_packages="python3"
+extra_packages=""
 
 # grub timeout
 grub_timeout=5
